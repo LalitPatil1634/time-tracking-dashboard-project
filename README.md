@@ -30,7 +30,6 @@ Users should be able to:
 ![](./Second.png)
 ![](./Third.png)
 
-
 ### Links
 
 - Solution URL: [GitHub](https://github.com/LalitPatil1634/time-tracking-dashboard-project)
@@ -74,16 +73,10 @@ window.addEventListener('DOMContentLoaded', () => {
 });
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
-
 ### Useful resources
 
 - [JavaScript](https://www.example.com) - This helped me for Fetch API. I really liked this pattern and will use it going forward.
 - [CSS](https://www.w3schools.com/w3css/) - This is an amazing article which helped me finally understand CSS Deep concepts. I'd recommend it to anyone still learning this concept.
-
 
 ## Author
 
