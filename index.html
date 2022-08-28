@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- google font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,500;1,400&display=swap"
+      rel="stylesheet"
+    />
+    <!-- css -->
+    <link rel="stylesheet" href="style.css" />
+    <title>Time Tracking Dashboard</title>
+</head>
+<body>
+  <main>
+    <div class="profile container">
+      <div class="profile-card">
+        <div class="card">
+          <div class="card-image">
+            <img src="./images/image-jeremy.png" alt="person" />
+          </div>
+          <div class="text">
+            <p>Report for</p>
+            <p>Jeremy <br />Robson</p>
+          </div>
+        </div>
+        <!-- timeframes buttons -->
+        <div class="btn-container">
+          <button class="btn active" data-id="daily">Daily</button>
+          <button class="btn" data-id="weekly">Weekly</button>
+          <button class="btn" data-id="monthly">Monthly</button>
+        </div>
+      </div>
+      <!-- activities -->
+      <div class="activity"></div>
+    </div>
+  </main>
+  <footer>
+    <div class="attribution">
+      Challenge by
+      <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+        >Frontend Mentor</a
+      >. Coded by <a href="#">Lalit Patil</a>.
+    </div>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
