@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/LalitPatil1634/time-tracking-dashboard-project)
-- Live Site URL: [Netlify](https://splendid-cajeta-79631d.netlify.app)
+- Live Site URL: [Netlify](https://effortless-muffin-657f6c.netlify.app)
 
 ## My process
 
